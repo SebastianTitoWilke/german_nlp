@@ -166,4 +166,7 @@
 	echo '<pre>'.var_export($_SESSION['Satzspeicher'], true).'</pre>';
 	//unset($_SESSION);
 	
+	if(isset($_REQUEST['refresh']) && $_REQUEST['refresh'] == 1) {
+	  session_destroy();
+	}		
 ?>
