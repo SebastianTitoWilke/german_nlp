@@ -8,6 +8,7 @@ fast - German - Natural Language Processing with PHP and for Ajax/JSON
 For Example
 
 Request: index.php?q=Ich%20bin%20ein%20Programm
+
 Answer: {"UserIP":"::1",
          "Satz":"Ich bin ein Programm",
          "Satztyp":"Aussage",
