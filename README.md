@@ -33,7 +33,7 @@ And just for fun, the Question-Answer-Machine:
 4. To delete the Session frage_antwort_maschine.php?q=&refresh=1
 
 but, a warning, this Question-Answer-Machine is not ready and the machine creates a lot of errors depending on some of the possible sentences that exists in german! 
-You can try to fix them all :D
+You can try to fix them all and add syllogisms as information creation or something else :D
 
 Feel free to change anything ...
 
