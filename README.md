@@ -27,7 +27,7 @@ Find the possible NLP-Tagger-Codes in POS and POS_Summe (for meaning watch the S
 
 And just for fun, the Question-Answer-Machine:
 
-1. Save short Information-Sentence: frage_antwort_maschine.php?q=Statment 
+1. Save short Informations-Sentence: frage_antwort_maschine.php?q=Statment 
 2. Question to Informations: frage_antwort_maschine.php?q=Question
 3. Get the Answer ...
 
