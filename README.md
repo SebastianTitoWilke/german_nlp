@@ -29,6 +29,8 @@ And just for fun, the Question-Answer-Machine:
 2. Question to Informations: frage_antwort_maschine.php?q=Question
 3. Get the Answer ...
 
+but this machine is not ready and creates a lot of errors! :D
+
 Feel free to change anything ...
 
 mfg
