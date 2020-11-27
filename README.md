@@ -30,6 +30,7 @@ And just for fun, the Question-Answer-Machine:
 1. Save short Informations-Sentence: frage_antwort_maschine.php?q=Statment 
 2. Question to Informations: frage_antwort_maschine.php?q=Question
 3. Get the Answer ...
+4. To delete the Session frage_antwort_maschine.php?q=&refresh=1
 
 but, a warning, this Question-Answer-Machine is not ready and the machine creates a lot of errors depending on some of the possible sentences that exists in german! 
 You can try to fix them all :D
