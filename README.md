@@ -31,7 +31,7 @@ And just for fun, the Question-Answer-Machine:
 2. Question to Informations: frage_antwort_maschine.php?q=Question
 3. Get the Answer ...
 
-but, a warning, this Question-Answer-Machine is not ready, the size of the Memory.php grows fast and the machine creates a lot of errors! :D
+but, a warning, this Question-Answer-Machine is not ready and the machine creates a lot of errors! You can try to fix them all :D
 
 Feel free to change anything ...
 
