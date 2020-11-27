@@ -34,9 +34,12 @@ Feel free to change anything ...
 mfg
 
 Tito
+
 https://github.com/SebastianTitoWilke
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All Code and Files from:
+
 https://github.com/SebastianTitoWilke/german_nlp
 
 
