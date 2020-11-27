@@ -21,7 +21,7 @@ Answer: {"UserIP":"::1",
 
 Satztyp = Frage (Question) | Aussage (Statement) | Befehl (Command)
 
-Find the possible NLP-Tagger-Codes in POS and POS_Summe (for meaning watch the SSTT_TagSET.pdf)
+Find the possible NLP-Tagger-Codes in POS and POS_Summe (for meaning watch the STTS_Tagset_Tiger (1).pdf)
 
 And just for fun, the Question-Answer-Machine:
 
