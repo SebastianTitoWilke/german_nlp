@@ -19,7 +19,7 @@ Answer: {"UserIP":"::1",
                        "Wort":"ein","Grammatik":[{"POS":"ART","Grundform":"eine"},{"POS":"PTKVZ","Grundform":"ein"},{"POS":"CARD","Grundform":"ein"}], "POS_Summe":["ART","PTKVZ","CARD"]},{
                        "Wort":"Programm","Grammatik":[{"POS":"NN","Grundform":"Programm"}],"POS_Summe":["NN"]}]}
 
-Satztyp (sentence types) = Frage (question) | Aussage (statement) | Befehl (command)
+Satztyp (sentence type) = Frage (question) | Aussage (statement) | Befehl (command)
 
 Find the possible NLP-Tagger-Codes in POS and POS_Summe (for meaning watch the STTS_Tagset_Tiger (1).pdf)
 
