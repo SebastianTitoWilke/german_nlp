@@ -35,7 +35,7 @@ And just for fun, the Question-Answer-Machine:
 but, a warning, this Question-Answer-Machine is not ready and the machine creates a lot of errors depending on some of the possible sentences that exists in german! 
 You can try to fix them all :D and, maybe, if you add syllogism as conclusions by a number of sentence please show me the result :(
 
-Do waht you like, feel free to change anything ...
+Do what you like, feel free to change anything ...
 
 mfg
 
