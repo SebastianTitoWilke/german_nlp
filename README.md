@@ -22,6 +22,10 @@ Satztyp = Frage (Question) | Aussage (Statement) | Befehl (Command)
 
 Find the possible NLP-Tagger-Codes in POS and POS_Summe (for meaning watch the tagger.pdf)
 
+And just for fun, the Question-Answer-Machine:
+
+frage_antwort_maschine.php?q=Statment and than Question to Statement frage_antwort_maschine.php?q=Question
+
 Feel free to change anything ...
 
 mfg
