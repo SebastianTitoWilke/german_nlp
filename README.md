@@ -1,5 +1,5 @@
 # german_nlp
-fast - German - Natural Language Processing with PHP and for Ajax/JSON
+fast - German - Natural Language Processing with PHP and answers in JSON
 
 1. Put those files in one dir
 2. index.php?q=your%20german%20sentence
