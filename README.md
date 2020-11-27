@@ -33,7 +33,7 @@ And just for fun, the Question-Answer-Machine:
 4. To delete the Session frage_antwort_maschine.php?q=&refresh=1
 
 but, a warning, this Question-Answer-Machine is not ready and the machine creates a lot of errors depending on some of the possible sentences that exists in german! 
-You can try to fix them all :D and, maybe, if you add syllogisms as conclusions by a number of sentence with the same subject or object, please show me the result :(
+You can try to fix them all :D and, maybe, if you add syllogisms as conclusions by a number of sentences, with the same subject or object, please show me the result :(
 
 Do what you like, feel free to change anything ...
 
