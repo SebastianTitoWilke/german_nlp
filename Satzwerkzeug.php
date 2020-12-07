@@ -36,7 +36,7 @@ class Satzwerkzeug {
 	
 	function antworte($input) {
 		global $_SESSION;
-		$Antwort = '';
+		$Antwort = array();
 		foreach($_SESSION['Satzspeicher'] as $satz) {
 			//exit(var_dump($satz));
 			if(!empty($satz['Interrogationen'])) {
