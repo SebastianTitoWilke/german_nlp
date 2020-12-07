@@ -53,5 +53,5 @@ All Code and Files from:
 
 https://github.com/SebastianTitoWilke/german_nlp
 
-
+Demo: https://sick-universe.com/nlp/index.php?q=Das%20ist%20ein%20Programm
 
