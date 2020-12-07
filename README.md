@@ -46,6 +46,9 @@ https://github.com/SebastianTitoWilke
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 All Code and Files from:
 
-https://github.com/SebastianTitoWilke/german_nlp
+Github: https://github.com/SebastianTitoWilke/german_nlp
+Facebook: https://www.facebook.com/sebastian.wilke.3139
+Twitter: https://twitter.com/TheSickUniverse
+
 
 
