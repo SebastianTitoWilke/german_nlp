@@ -1,9 +1,10 @@
 <?php
 
+	session_start();
 	ini_set('memory_limit', '1500M');
 	include_once('Satzwerkzeug.php');
 	include_once('nlp_array.php');
-	if (!isset($_SESSION)) {session_start();}
+	
 	//exit(var_dump($nlp_array));
 	function posTagger($input) {
 		//$nlp_base = file_get_contents('DeReKo-2014-II-MainArchive-STT.100000.freq');
