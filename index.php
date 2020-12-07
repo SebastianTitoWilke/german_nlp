@@ -2,7 +2,7 @@
 
 //ini_set('memory_limit', '10000M');
 include_once('Satzanalyse.php');
-if (!isset($_SESSION) {session_start()};
+if (!isset($_SESSION) {session_start();}
 
 if(isset($_REQUEST['refresh']) && $_REQUEST['refresh'] == 1) {
 	session_unset();
