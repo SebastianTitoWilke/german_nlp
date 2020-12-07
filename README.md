@@ -2,8 +2,9 @@
 fast - German - Natural Language Processing in PHP that answers in JSON
 
 1. Put those files in one dir
-2. index.php?q=your%20german%20sentence
-3. get the answer in JSON ...
+2. Empty the Memory.php file
+3. index.php?q=your%20german%20sentence
+4. get the answer in JSON ...
 
 For Example
 
