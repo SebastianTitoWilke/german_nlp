@@ -11,8 +11,9 @@ if(isset($_REQUEST['refresh']) && $_REQUEST['refresh'] == 1) {
 $nlp = NLP_Extraktion($_REQUEST['q']);
 exit(json_encode($nlp));
 
-/*$_SESSION['NLP'][] = $output['nlp_string'];
 
+/*$_SESSION['NLP'][] = $output['nlp_string'];
+/*change
 highlight_string("<?php\n\$data =\n" . var_export($_SESSION['NLP'], true). ";\n?>");
 highlight_string("<?php\n\$data =\n" . var_export(Inhalts_Extraktion($output), true). ";\n?>");
 highlight_string("<?php\n\$data =\n" . var_export($output, true). ";\n?>");
